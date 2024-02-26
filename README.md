@@ -2,19 +2,6 @@
 # 📚 CAI-WAIFU
 Simple way to cai api, using PYCAY lib, and EasyGoogleTranslate
 ![Preview](https://github.com/FalcoTK/Cai-Terminal/blob/main/Annota.png "Preview")
-# 🔨 How To Use:
-- Download Uisng Git
-```
-git clone https://github.com/FalcoTK/Cai-Terminal.git
-```
-- Install
-```
-pip install -r requirements.txt
-```
-- Run
-```
-Python Main.py
-```
 # 🔑 Get Token & Bot ID
 
 DO NOT SHARE IT The token is needed for authorization and operation of requests from your account
@@ -31,6 +18,34 @@ copy from char= till &source=
 Result:
 ```
 piwvxvcMQFwbQXCQpJdzbqPMg9ck4FaYi4NWM86ERXo
+```
+
+# 🔨 How To Use:
+- Download Uisng Git
+```
+git clone https://github.com/FalcoTK/Cai-Terminal.git
+```
+- Install
+```
+pip install -r requirements.txt
+```
+- Config
+```
+Owner_ID="-" #ADD THE TOKEN
+bot_id_chat1="-" #BOT ID
+bot_id_chat2=""
+
+chat2=False
+chat1=True #Dont Enable it :D
+
+translate=True
+target_lang="id" #Country Output like JA/ID/EN/RU ETC
+
+debug=False
+```
+- Run
+```
+Python Main.py
 ```
 
 # ❓ Question
