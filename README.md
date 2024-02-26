@@ -17,7 +17,8 @@ Python Main.py
 ```
 # ❓ Question
 You can DM me on my discord or open issues
-# 📬 My Conntact 
-Discord: @falco_tk
-Instagram: @falxco.tk
+# 📬 My Conntact
+
+Discord: @falco_tk  
+Instagram: @falxco.tk  
 X/Twiter: @Falco_TKs
