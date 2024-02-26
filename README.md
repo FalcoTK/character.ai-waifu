@@ -4,7 +4,7 @@ Simple way to cai api, using PYCAY lib, and EasyGoogleTranslate
 # 🔨 How To Use:
 - Download Uisng Git
 ```
-git clone
+git clone https://github.com/FalcoTK/Cai-Terminal.git
 ```
 - Install
 ```
@@ -14,4 +14,8 @@ pip install -r requirements.txt
 ```
 Python Main.py
 ```
-# ❓ Any Questions You can DM me on my discord or open issues
+# ❓ Question
+You can DM me on my discord or open issues
+Discord: @falco_tk
+Instagram: @falxco.tk
+X/Twiter: @Falco_TKs
