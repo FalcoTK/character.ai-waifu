@@ -1,3 +1,4 @@
+w![Header](https://styles.redditmedia.com/t5_3glag/styles/bannerBackgroundImage_1ssmhjadjip31.jpg?format=pjpg&s=29601c153c18bf69a9cea1464765a8bf695c41d6 "Header")
 # 📚 CAI-WAIFU
 Simple way to cai api, using PYCAY lib, and EasyGoogleTranslate
 
