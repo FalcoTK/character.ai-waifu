@@ -22,12 +22,12 @@ DO NOT SHARE IT The token is needed for authorization and operation of requests 
 Open DevTools in your browser
 Go to Storage -> Local Storage -> char_token -> Copy value
 
-- Bot ID
+- Bot ID  
 GO to Link and copy like this
 ```
 https://beta.character.ai/chat2?char=piwvxvcMQFwbQXCQpJdzbqPMg9ck4FaYi4NWM86ERXo&source=recent-chats
 ```
-copy from char= till &source=
+copy from char= till &source=  
 Result:
 ```
 piwvxvcMQFwbQXCQpJdzbqPMg9ck4FaYi4NWM86ERXo
