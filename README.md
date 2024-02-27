@@ -35,8 +35,8 @@ Owner_ID="-" #ADD THE TOKEN
 bot_id_chat1="-" #BOT ID
 bot_id_chat2=""
 
-chat2=False
-chat1=True #Dont Enable it :D
+chat2=False #don't turn it on :D
+chat1=True 
 
 translate=True
 target_lang="id" #Country Output like JA/ID/EN/RU ETC
